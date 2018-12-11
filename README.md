@@ -1,7 +1,7 @@
 # sonar-msbuild-plugin
 
 The plugin provides analysis for msbuild projects. 
-
+[![DepShield Badge](https://depshield.sonatype.org/badges/TrimbleSolutionsCorporation/SonarRestService/depshield.svg)](https://depshield.github.io)
 [![Build status](https://ci.appveyor.com/api/projects/status/qwqbn68q2ejhd4xg/branch/master?svg=true)](https://ci.appveyor.com/project/jorgecosta/sonar-msbuild-plugin-7e5ti/branch/master)
 
 # Description / Features
